@@ -1,0 +1,16 @@
+{
+  "name": "check-if-word",
+  "version": "1.0.001",
+  "description": "checks dictionary if for valid word",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "check",
+    "word",
+    "dictionary"
+  ],
+  "author": "DevD",
+  "license": "ISC"
+}
